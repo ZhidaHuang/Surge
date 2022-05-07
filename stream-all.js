@@ -5,7 +5,7 @@
 
 * [Script]
 * #流媒体解锁检测
-* stream-all = type=generic, timeout=15, script-path=https://raw.githubusercontent.com/LucaLin233/Luca_Conf/main/Surge/JS/stream-all.js
+* stream-all = type=generic, timeout=15, script-path=https://raw.githubusercontent.com/ZhidaHuang/Panel/main/stream-all.js?token=GHSAT0AAAAAABUJ27HIXS42KEWXHRZPZUJOYTWHFOA
 */
 
 
