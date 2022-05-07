@@ -1,3 +1,14 @@
+/*
+* [Panel]
+* #流媒体解锁检测
+* stream-all = script-name=stream-all, title="流媒体解锁检测", content="请刷新面板", update-interval=-1
+
+* [Script]
+* #流媒体解锁检测
+* stream-all = type=generic, timeout=15, script-path=https://raw.githubusercontent.com/LucaLin233/Luca_Conf/main/Surge/JS/stream-all.js
+*/
+
+
 const REQUEST_HEADERS = {
     'User-Agent':
       'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36',
