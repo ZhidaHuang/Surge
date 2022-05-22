@@ -1,3 +1,6 @@
+#!name=TIKTOK UK
+#!desc=TIKTOK 英区
+
 [URL Rewrite]
 
 (?<=_region=)CN(?=&) UK 307
