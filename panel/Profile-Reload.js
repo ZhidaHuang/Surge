@@ -15,7 +15,7 @@ $httpAPI("POST", "/v1/profiles/reload", {}, data => {
     $done({
         title: "配置重载",
         content: "配置重载成功",
-        icon: "gearshape.circle.fill",
+        icon: "gearshape.circle",
         "icon-color": "#002FA7",
      })
     });
