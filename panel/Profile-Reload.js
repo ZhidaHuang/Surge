@@ -15,7 +15,7 @@ $httpAPI("POST", "/v1/profiles/reload", {}, data => {
     $done({
         title: "配置重载",
         content: "配置重载成功",
-        icon: "takeoutbag.and.cup.and.straw.fill",
+        icon: "takeoutbag.and.cup.and.straw",
         "icon-color": "#002FA7",
      })
     });
