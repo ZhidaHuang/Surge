@@ -1,5 +1,5 @@
 /*
-By：Pysta
+By：zD
 
 GitHub:https://github.com/mieqq/mieqq
 
