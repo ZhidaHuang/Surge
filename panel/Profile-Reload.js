@@ -15,7 +15,7 @@ $httpAPI("POST", "/v1/profiles/reload", {}, data => {
     $done({
         title: "配置重载",
         content: "配置重载成功",
-        icon: "externaldrive.badge.person.crop,
+        icon: "externaldrive.badge.person.crop",
         "icon-color": "#002FA7",
      })
     });
